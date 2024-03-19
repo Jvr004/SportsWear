@@ -1,4 +1,4 @@
-# Situi Web - Trbajo integrador 
+# Sitio Web - Trabajo Integrador 
 
 Pautas para el Sitio Web:
 
