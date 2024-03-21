@@ -1,0 +1,30 @@
+/*Reset de tamaño de cajas */
+html{
+  box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before{
+  box-sizing: inherit;
+}
+
+body{
+  padding: 0;
+  margin: 0;
+}
+
+
+.fa-chevron-up{
+  background-color: rgb(59, 132, 132);
+  color: white;
+  font-size: 1.5rem;
+  padding: 5px;
+  border-radius: 20%;
+  position: fixed;
+  width: 3.5rem;
+  height: 2.5rem;
+  right: -0.5vw;
+  bottom: 70px;
+  z-index: 99999;
+}
