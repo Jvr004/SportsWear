@@ -23,4 +23,4 @@ Pautas para el Sitio Web:
     a)Debe ser desarrollado por el estudiante, es decir sin uso de frameworks. Uso de fuentes, posicionado, colores, fondos, cambio del layout con float o flex, etc.
 
 
-[gh-pages](https://jvr004.github.io/SportsWear/)https://jvr004.github.io/SportsWear/ 
+https://jvr004.github.io/SportsWear 
